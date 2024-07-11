@@ -31,7 +31,7 @@ const Cook = () => {
                         </Fade>
                         <Fade direction={'up'} delay={1000} cascade damping={1e-1} triggerOnce={true}>
                             <p className='text-grey md:text-lg font-normal mb-10 text-start mt-2'>
-                            Unleash your inner chef and whip up culinary masterpieces with "Chef's Kitchen"! Our app connects you with a team of expert chefs, ready to guide you through any recipe, answer your burning questions, and help you conquer the kitchen. No matter your skill level, from complete novice to seasoned home cook, Chef's Kitchen empowers you to explore new cuisines, perfect classic dishes, and  build confidence in your cooking. </p>
+                            Unleash your inner chef and whip up culinary masterpieces with Chef&apos;s Kitchen! Our app connects you with a team of expert chefs, ready to guide you through any recipe, answer your burning questions, and help you conquer the kitchen. No matter your skill level, from complete novice to seasoned home cook, Chef&apos;s Kitchen empowers you to explore new cuisines, perfect classic dishes, and  build confidence in your cooking. </p>
                             <div className='flex align-middle justify-center md:justify-start'>
                                 <button className='text-xl font-medium rounded-full text-white py-5 px-6 bg-pink lg:px-10 mr-6'>Learn more</button>
                             </div>
